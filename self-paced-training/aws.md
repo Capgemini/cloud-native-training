@@ -4,6 +4,10 @@ Relevant AWS self paced labs and quests for cloud native engineering.
 
 :memo: denotes an exercise
 
+## Labs
+
+Work in progress!
+
 ## Quests
 
 ### Cloud
