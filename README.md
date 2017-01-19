@@ -14,6 +14,8 @@ List of useful cloud native related self paced training, videos, books and other
 
 ### AWS
 
+- [ ]
+
 ### Docker
 
 Self-Paced Training Url: [Docker Self-Paced Training](https://training.docker.com/self-paced-training)
@@ -97,6 +99,14 @@ See [https://github.com/kelseyhightower/kubernetes-the-hard-way](https://github.
 
 ### OpenTracing
 
+## Certifications
+
+- [ ] [AWS Certified Solutions Architect Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+- [ ] [AWS Certified Solutions Architect Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
+- [ ] [AWS Certified Developer Associate](https://aws.amazon.com/certification/certified-developer-associate/)
+- [ ] [AWS Certified SysOps Administrator Associate](https://aws.amazon.com/certification/certified-sysops-admin-associate/)
+- [ ] [AWS Certified DevOps Engineer Associate](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
+
 ## Books
 
 - [ ] [The Phoenix Project](http://www.amazon.co.uk/dp/0988262509)
@@ -112,9 +122,9 @@ See [https://github.com/kelseyhightower/kubernetes-the-hard-way](https://github.
 
 ## Newsletters
 
-- [ ] [Devops Weekly](http://www.devopsweekly.com/)
-- [ ] [Docker Weekly](https://www.docker.com/newsletter-subscription)
-- [ ] [KubeWeekly](http://kube.news/)
+- [Devops Weekly](http://www.devopsweekly.com/)
+- [Docker Weekly](https://www.docker.com/newsletter-subscription)
+- [KubeWeekly](http://kube.news/)
 
 ## Videos
 
@@ -122,10 +132,10 @@ See [https://github.com/kelseyhightower/kubernetes-the-hard-way](https://github.
 
 ## Conferences
 
-- [ ] [Software Circus](http://cloudnativecomputing.softwarecircus.io/)
-- [ ] [Dockercon](http://2017.dockercon.com/)
-- [ ] [Kubecon](http://events.linuxfoundation.org/events/kubecon)
-- [ ] [Cloud Native Con](http://events.linuxfoundation.org/events/cloudnativecon)
+- [Software Circus](http://cloudnativecomputing.softwarecircus.io/)
+- [Dockercon](http://2017.dockercon.com/)
+- [Kubecon](http://events.linuxfoundation.org/events/kubecon)
+- [Cloud Native Con](http://events.linuxfoundation.org/events/cloudnativecon)
 
 ## Landscape
 
