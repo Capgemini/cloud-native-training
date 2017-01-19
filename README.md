@@ -29,7 +29,17 @@ See [AWS self paced training](self-paced-training/aws.md)
 
 ### Docker
 
-Self-Paced Training Url: [Docker Self-Paced Training](https://training.docker.com/self-paced-training)
+Self-Paced Training Url: [Docker Self-Paced Training](https://training.docker.com/category/self-paced-online)
+
+There are four  courses - you have to register for them individually. 
+(Personally I found some of the content was out of date and error-prone. I lost quite some time fixing problems)
+
+- [ ] Developer - Beginner Linux Containers
+- [ ] Developer - Intermediate (both Linux and Windows)
+- [ ] Operations - Beginner
+- [ ] Operations - Intermediate
+
+Agenda of the first course is listed below.
 
 #### Introduction
 
@@ -119,6 +129,8 @@ See [https://github.com/kelseyhightower/kubernetes-the-hard-way](https://github.
 - [ ] [AWS Certified DevOps Engineer Associate](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
 
 ## Books
+
+CapGemini has a deal with SkillSoft - lots of good quality eBook content is available online and offline if you have ann iOS device - no android support yet. More details [here] (http://talent.capgemini.com/uk/pages/HR/career_development/learning_development/review_the_capgemini_learning_environment/skillsoft/)
 
 - [ ] [The Phoenix Project](http://www.amazon.co.uk/dp/0988262509)
 - [ ] [Continuous Delivery](https://www.amazon.co.uk/d/Books/Continuous-Delivery-Deployment-Automation-Addison-Wesley/0321601912)
