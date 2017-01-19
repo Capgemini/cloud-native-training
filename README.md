@@ -25,7 +25,7 @@ List of useful cloud native related self paced training, videos, books and other
 
 ### AWS
 
-- [ ]
+See [AWS self paced training](self-paced-training/aws.md)
 
 ### Docker
 
