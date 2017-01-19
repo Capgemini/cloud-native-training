@@ -22,3 +22,8 @@ Work in progress!
 - [ ] [Serverless Web Apps using Amazon DynamoDB](https://run.qwiklab.com/quests/21?locale=en)
 - [ ] [Serverless Design with AWS Lambda](https://run.qwiklab.com/quests/17?locale=en)
 - [ ] [Alexa Skills Development](https://run.qwiklab.com/quests/19?locale=en)
+
+## Infrastructure as code
+
+### Terraform
+ - [ ] [Getting started with Terraform](https://www.terraform.io/intro/getting-started/install.html)
