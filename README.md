@@ -160,6 +160,12 @@ Contributions are most welcome!
 
 This list is just getting started, please contribute to make it super awesome.
 
+Please, read the [Contribution Guidelines](https://github.com/Capgemini/cloud-native-training/blob/master/CONTRIBUTING.md) before submitting your suggestion.
+
+Feel free to [open an issue](https://github.com/Capgemini/cloud-native-training/issues) or [create a pull request](https://github.com/Capgemini/cloud-native-training/pulls) with your additions.
+
+:star2: Thank you!
+
 ## License
 
 The MIT License
