@@ -129,9 +129,9 @@ See [https://github.com/kelseyhightower/kubernetes-the-hard-way](https://github.
 
 ## Landscape
 
-See [https://raw.githubusercontent.com/cncf/landscape](https://raw.githubusercontent.com/cncf/landscape)
+See [https://github.com/cncf/landscape](https://github.com/cncf/landscape)
 
-[![CNCF Landscape](landscape/CloudNativeLandscape_v0.9.2.jpg)](https://raw.githubusercontent.com/cncf/landscape/master/landscape/CloudNativeLandscape_v0.9.2.jpg)
+![CNCF Landscape]((https://raw.githubusercontent.com/cncf/landscape/master/landscape/CloudNativeLandscape_v0.9.2.jpg))
 
 ## Contributing
 
@@ -140,3 +140,6 @@ Contributions are most welcome!
 This list is just getting started, please contribute to make it super awesome.
 
 ## License
+
+The MIT License
+
