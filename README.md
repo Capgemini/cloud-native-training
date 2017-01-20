@@ -29,7 +29,17 @@ See [AWS self paced training](self-paced-training/aws.md)
 
 ### Docker
 
-Self-Paced Training Url: [Docker Self-Paced Training](https://training.docker.com/self-paced-training)
+Self-Paced Training Url: [Docker Self-Paced Training](https://training.docker.com/category/self-paced-online)
+
+There are four  courses - you have to register for them individually. 
+(Personally I found some of the content was out of date and error-prone. I lost quite some time fixing problems)
+
+- [ ] Developer - Beginner Linux Containers
+- [ ] Developer - Intermediate (both Linux and Windows)
+- [ ] Operations - Beginner
+- [ ] Operations - Intermediate
+
+Agenda of the first course is listed below.
 
 #### Introduction
 
