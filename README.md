@@ -123,6 +123,7 @@ See [https://github.com/kelseyhightower/kubernetes-the-hard-way](https://github.
 - [ ] [The Phoenix Project](http://www.amazon.co.uk/dp/0988262509)
 - [ ] [Continuous Delivery](https://www.amazon.co.uk/d/Books/Continuous-Delivery-Deployment-Automation-Addison-Wesley/0321601912)
 - [ ] [Using Docker](https://www.amazon.co.uk/Using-Docker-Adrian-Mouat-x/dp/1491915765)
+- [ ] [Containerizing Continuous Delivery in Java](https://www.nginx.com/resources/library/containerizing-continuous-delivery-java/)
 
 ### The New Stack ebook series:
 - [ ] [The Docker and Container Ecosystem](http://thenewstack.io/ebookseries/)
@@ -169,4 +170,3 @@ Feel free to [open an issue](https://github.com/Capgemini/cloud-native-training/
 ## License
 
 The MIT License
-
