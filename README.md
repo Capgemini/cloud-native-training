@@ -31,7 +31,7 @@ See [AWS self paced training](self-paced-training/aws.md)
 
 Self-Paced Training Url: [Docker Self-Paced Training](https://training.docker.com/category/self-paced-online)
 
-There are four  courses - you have to register for them individually. 
+There are four  courses - you have to register for them individually.
 (Personally I found some of the content was out of date and error-prone. I lost quite some time fixing problems)
 
 - [ ] Developer - Beginner Linux Containers
@@ -134,6 +134,7 @@ See [https://github.com/kelseyhightower/kubernetes-the-hard-way](https://github.
 - [ ] [Continuous Delivery](https://www.amazon.co.uk/d/Books/Continuous-Delivery-Deployment-Automation-Addison-Wesley/0321601912)
 - [ ] [Using Docker](https://www.amazon.co.uk/Using-Docker-Adrian-Mouat-x/dp/1491915765)
 - [ ] [Containerizing Continuous Delivery in Java](https://www.nginx.com/resources/library/containerizing-continuous-delivery-java/)
+- [ ] [Lean Enterprise](http://amzn.eu/jlcG9FU)
 
 ### The New Stack ebook series:
 - [ ] [The Docker and Container Ecosystem](http://thenewstack.io/ebookseries/)
